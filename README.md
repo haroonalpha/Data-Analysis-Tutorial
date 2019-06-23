@@ -1,6 +1,6 @@
 # Data Analysis Tutorial
 Data Analysis using Unsupervised learning -(Apriori and Cluster Analysis)
-Uing R Script:-
+USING R STUDIO
 
 # Data Reading
 Simulated_Coles_Data <- read_excel("Simulated Coles Data.xlsx",
